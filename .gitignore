@@ -1,0 +1,14 @@
+node_modules
+docs/
+dist
+.vscode
+.DS_Store
+docs
+vue-2.6.11
+.travis.yml
+deploy.sh
+LICENSE
+logo.jpg
+package.json
+README.md
+yarn.lock
